@@ -1,0 +1,13 @@
+name: HPV_Monitor
+title: HPV_Monitor
+username:
+account: interventionsandimplementation
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3374572
+bundleId: 3963579
+url: https://interventionsandimplementation.shinyapps.io/HPV_Monitor/
+when: 1607484463.38268
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: first.DB|Import DataDictionary.xlsx|savehere.RDS|db/anna.hassan.DB|db/bcarter6.DB|db/brian.carter.DB|db/jennifer.ish.DB|db/shaylen.foley.DB|www/.DS_Store|www/mystylesheet.css|www/stylesheet.css
